@@ -1,4 +1,4 @@
-(impl-trait 'SP2PABAF9FTAJYNFZH93XENAJ8FVY99RRM50D2JG9.nft-trait.nft-trait)
+(impl-trait 'ST1NXBK3K5YYMD6FD41MVNP3JS1GABZ8TRVX023PT.nft-trait.nft-trait)
 
 (define-constant err-token-id-failure (err u101))
 (define-constant err-not-token-owner (err u102))
